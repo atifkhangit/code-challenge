@@ -1,1 +1,19 @@
-Your source files reside in this directory
+Design:
+1. The important design decision was to have a trade off between storage overhead and retrieval overhead while ingesting
+and processing. The design pushes the complexity towards storage part while keeping calculation of Customer LTV faster.
+
+2. The Customer object has an additional flag attribute 'active' indicating the latest customer information. The latest
+record will have the active flag as 1.
+
+3. The data structures used for Customers and Orders are capable of storing the history of the respective data as both
+receives verb 'UPDATE'.
+
+4. The Order object also has additional flag attribute 'active' indicating the latest order for the order id.
+
+5. Individual orders, site visits are stored in HashMap based on the keys which are the week start date for the
+particular event time. The DateCalculator class returns the first day of the week for start date.
+
+
+Future Improvement:
+In the future the code can be improved by pushing the storage of ingested data to an in-memory database or a relational
+database.
