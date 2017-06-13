@@ -111,5 +111,4 @@
 {"type": "SITE_VISIT", "verb": "NEW", "key": "75i60u7l2c09", "event_time": "2017-06-05T11:21:21.041Z", "customer_id": "32n49w6w2y10", "tags": []},
 {"type": "SITE_VISIT", "verb": "NEW", "key": "75i60u7l2c04", "event_time": "2017-06-01T10:27:17.384Z", "customer_id": "32n49w6w2y10", "tags": []},
 {"type": "SITE_VISIT", "verb": "NEW", "key": "75i60u7l2c15", "event_time": "2017-06-11T07:28:21.041Z", "customer_id": "32n49w6w2y10", "tags": []},
-{"type": "IMAGE", "verb": "UPLOAD", "key": "75i60u7l2c06", "event_time": "2017-06-02T10:27:21.344Z", "customer_id": "32n49w6w2y10", "camera_make": "Canon", "camera_model": "EOS 80D"},
-]
+{"type": "IMAGE", "verb": "UPLOAD", "key": "75i60u7l2c06", "event_time": "2017-06-02T10:27:21.344Z", "customer_id": "32n49w6w2y10", "camera_make": "Canon", "camera_model": "EOS 80D"},]
