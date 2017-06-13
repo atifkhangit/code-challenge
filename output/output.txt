@@ -3,6 +3,6 @@ CustomerID: 32q93m5a0c72		LTV: $62990.39		CustomerExpenditurePerVisit: $40.38		n
 CustomerID: 30c94y8v7u43		LTV: $21537.75		CustomerExpenditurePerVisit: $8.28		numberOfSiteVisitPerWeek: 5.0
 CustomerID: 37j92d3g1u21		LTV: $20131.2		CustomerExpenditurePerVisit: $6.45		numberOfSiteVisitPerWeek: 6.0
 CustomerID: 61l54b7w4h95		LTV: $19861.26		CustomerExpenditurePerVisit: $7.64		numberOfSiteVisitPerWeek: 5.0
-CustomerID: 57j83f7s0k50		LTV: $17266		CustomerExpenditurePerVisit: $6.64		numberOfSiteVisitPerWeek: 5.0
+CustomerID: 57j83f7s0k50		LTV: $17266		 CustomerExpenditurePerVisit: $6.64		numberOfSiteVisitPerWeek: 5.0
 CustomerID: 95y94a5b1v10		LTV: $15337.4		CustomerExpenditurePerVisit: $9.83		numberOfSiteVisitPerWeek: 3.0
 CustomerID: 96f55c7d8f42		LTV: $6416.8		CustomerExpenditurePerVisit: $12.34		numberOfSiteVisitPerWeek: 1.0
